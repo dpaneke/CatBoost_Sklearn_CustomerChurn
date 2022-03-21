@@ -13,7 +13,7 @@ It contains, among other things:
 - Grid search for the best parameters
 - Final evaluation score of `0.707` (better than the other `35%` of participants)
 
-The second solution  `Sklearn_CustomerChurn_kaggle.ipynb` deals with problem using `catboost` library.
+The second solution  `CatBoost_CustomerChurn_kaggle.ipynb` deals with problem using `catboost` library.
 
 It contains, among other things:
 - Data preparation
