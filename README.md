@@ -1,6 +1,6 @@
 # CatBoost_Sklearn_CustomerChurn
 
-This repository contains two solutions for customer churn problem on Kaggle (https://www.kaggle.com/c/telecom-clients-prediction2/overview/description)
+This repository contains two solutions for [customer churn problem](https://www.kaggle.com/c/telecom-clients-prediction2/overview/description) on Kaggle 
 
 The first solution  `Sklearn_CustomerChurn_kaggle.ipynb` includes some base machine learning approaches based on use of sklearn library.
 
