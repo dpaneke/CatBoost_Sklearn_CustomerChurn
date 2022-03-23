@@ -2,7 +2,7 @@
 
 This repository contains two solutions for [customer churn problem](https://www.kaggle.com/c/telecom-clients-prediction2/overview/description) on Kaggle 
 
-The first solution  `Sklearn_CustomerChurn_kaggle.ipynb` includes some base machine learning approaches based on use of sklearn library.
+The first solution  [`Sklearn_CustomerChurn_kaggle.ipynb`](https://github.com/dpaneke/CatBoost_Sklearn_CustomerChurn/blob/master/Sklearn_CustomerChurn_kaggle.ipynb) includes some base machine learning approaches based on use of sklearn library.
 
 It contains, among other things:
 - Data preparation
@@ -13,7 +13,7 @@ It contains, among other things:
 - Grid search for the best parameters
 - Final evaluation score of `0.707` (better than the other `35%` of participants)
 
-The second solution  `CatBoost_CustomerChurn_kaggle.ipynb` deals with problem using `catboost` library.
+The second solution  [`CatBoost_CustomerChurn_kaggle.ipynb`](https://github.com/dpaneke/CatBoost_Sklearn_CustomerChurn/blob/master/CatBoost_CustomerChurn_kaggle.ipynb) deals with problem using `catboost` library.
 
 It contains, among other things:
 - Data preparation
